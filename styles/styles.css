@@ -1,0 +1,38 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      padding: 20px;
+    }
+    table {
+      width: 80%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+      background: #fff;
+    }
+    th, td {
+      padding: 8px 12px;
+      border: 1px solid #d0d0d0;
+    }
+    th {
+      background-color: #e0f0ff;
+      text-align: left;
+    }
+    .section-title {
+      background: #cce5ff;
+      font-weight: bold;
+      padding: 10px;
+    }
+    .highlight {
+      color: red;
+      font-weight: bold;
+    }
+    .checkbox {
+      margin-right: 10px;
+    }
+
+    .help-link {
+      color: blue;
+      text-decoration: underline;
+      cursor: pointer;
+    }
